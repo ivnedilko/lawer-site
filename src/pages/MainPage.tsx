@@ -4,7 +4,7 @@ function MainPage(){
   
   return (
     <>
-    <ul>
+      <ul>
         <li>
           <Link to={'/'}>Головна</Link>
         </li>
