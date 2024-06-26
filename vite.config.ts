@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   
   // github repo name 
-  base: "/lawer-site/",
+  base: "/lawer-site",
 })

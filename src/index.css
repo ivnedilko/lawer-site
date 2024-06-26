@@ -18,3 +18,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.error_page_container{
+  text-align: center;
+  color: red;
+  margin-top: 25px;
+}
